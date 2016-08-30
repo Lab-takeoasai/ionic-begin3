@@ -1,2 +1,2 @@
-# ionic-begin2
-Typescriptでモバイルアプリケーションを作ってみる2
+# ionic-begin3
+Typescriptでモバイルアプリケーションを作ってみる3
