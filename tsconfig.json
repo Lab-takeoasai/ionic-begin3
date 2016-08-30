@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "outDir": "www/js"
+  },
+  "exclude": [
+    "node_modules",
+    "www",
+    "platforms",
+    ".vscode"
+  ]
+}
